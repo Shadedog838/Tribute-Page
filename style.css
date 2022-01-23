@@ -1,0 +1,25 @@
+#main {
+  background: #DF7D10;
+  margin: 0 50px;
+}
+#title {
+  text-align: center;
+}
+span {
+  color: green;
+}
+#image {
+  height: auto;
+  max-width: 600px;
+  display: block;
+  margin: 0 auto;
+}
+
+#img-caption {
+  text-align: center;
+}
+
+#tribute-info {
+  diaplay: inline-block;
+  margin-left: 350px;
+}
